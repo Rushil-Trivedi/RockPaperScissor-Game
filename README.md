@@ -1,4 +1,4 @@
-# A Rock, Paper, Scissor Game.
+## A Rock, Paper, Scissor Game.
 
 This is a simple implementation of the classic hand game Rock, Paper, Scissors. Players choose one of three options: rock, paper, or scissors. The game follows these rules:
 
